@@ -22,7 +22,7 @@ All paradigm parameters are configurable via YAML files (see `brain-pong-inputs/
 First, clone the current repository:
 
 ```bash
-git clone https://github.com/CNIR-SIN/brain-pong-inputs.git
+git clone https://github.com/ingdye/brain-pong-inputs.git
 ```
 
 Set up the project's `conda` environment and install the package: 
