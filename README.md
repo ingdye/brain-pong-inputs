@@ -4,7 +4,7 @@ A Pong game paradigm for fMRI neurofeedback experiments.
 
 ## 📖 Overview
 
-`brain_pong_inputs` is an updated version of `brain_pong` (https://github.com/CNIR-SIN/brain-pong-press.git) with additional 'mouse press' and 'mouse wheel' component. The purpose of this additional component is (1) to train participants with delayed response and (2) to allow continous response.
+`brain_pong_inputs` is an updated version of `brain_pong` (https://github.com/CNIR-SIN/brain-pong.git) with additional 'mouse press' and 'mouse wheel' component. The purpose of this additional component is (1) to train participants with delayed response and (2) to allow continous response.
 
 Response with mouse buttons: When the 'left' button is pressed, the bar will go up. When the 'right' button is pressed, the bar will go down. Longer press will shift bar farther. When the button is released, bar stops moving. Bar movement is filtered with HRF kernel, so bar will move slowly and smoothly. Other features are identical to previous version.
 
