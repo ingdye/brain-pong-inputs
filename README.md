@@ -36,7 +36,7 @@ pip install -e .
 
 Test the install by printing out the help. The help text should print (see below):
 ```bash
-brain_pong_press --help
+brain_pong_inputs --help
 ```
 
 ### Examples
@@ -44,7 +44,7 @@ brain_pong_press --help
 **Basic usage** - Run 1 blocks with 5 trials each using default parameters and 6s delay of bar movement after response.:
 
 ```bash
-brain_pong_press <output_dir> --blocks 1 --trials 5 --input_method "wheel"
+brain_pong_inputs <output_dir> --blocks 1 --trials 5 --input_method "wheel"
 ```
 
 
