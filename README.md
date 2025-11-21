@@ -14,7 +14,7 @@ Response with mouse wheel: When you scroll the wheel upward, the bar will go up.
 
 ### ⚙️ Configuration
 
-All paradigm parameters are configurable via YAML files (see `configs/sample_config.yaml`). All size and speed parameters use normalized units relative to the game window, ensuring consistent relative scaling across different window sizes.
+All paradigm parameters are configurable via YAML files (see `brain-pong-inputs/configs/defaults_delay.yaml`). All size and speed parameters use normalized units relative to the game window, ensuring consistent relative scaling across different window sizes.
 
 
 ## 💾 Installation
